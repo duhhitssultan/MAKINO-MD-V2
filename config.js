@@ -17,11 +17,11 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = ["𝙷𝙸𝙼"];
+global.Owner = ["2348136457401"];
 global.OwnerNumber = ["2348136457401"];
-global.ownertag = [""]; 
+global.ownertag = ["2348136457401"]; 
 global.OwnerName =  "𝙷𝙸𝙼";
-global.BotName = "MAKINO-md-v2";
+global.BotName = "🐦Makino-md-v2";
 global.packname = "ᴡᴏᴍᴘ ᴡᴏᴍᴘ";                             //Do not change.
 global.author = "...𝕆𝕊𝔸𝕋";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
